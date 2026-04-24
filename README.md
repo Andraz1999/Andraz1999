@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hey there! 👋 I'm Andraz
 
-<!--
-**Andraz1999/Andraz1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! Here you'll find a mix of projects I've been working on — from language tools to games and AI experiments. Feel free to browse around!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌍 Language Learning Tools
+
+Tools to make learning languages a little more engaging:
+
+- <a href="https://github.com/Andraz1999/WordsFinder" target="_blank"> **WordsFinder**</a> — Find and explore words to boost your vocabulary
+
+---
+
+## 🎮 Game Development
+
+Games I've built and tinkered with:
+
+- <a href="https://github.com/Andraz1999/LudwigJam" target="_blank">**Ludwig's Game Jam 2021**</a> — A game jam project with a lot of heart
+- <a href="https://zina-game-studio.itch.io/" target="_blank">**Free browser games @ Zina Game Studio**</a> — A bunch of free-to-play games you can jump into right in your browser, no download needed!
+
+---
+
+## 🤖 AI Tools
+
+Experiments at the intersection of AI and everyday usefulness:
+
+- <a href="https://github.com/Andraz1999/Local-RAG-Assistant" target="_blank">**Local RAG Assistant**</a> — A locally-running RAG (Retrieval-Augmented Generation) assistant for querying your own pdfs
+
+---
+
+## 📚 School & Other Projects
+
+Various academic and personal projects:
+
+- <a href="https://github.com/Andraz1999/UNO-Karte" target="_blank">**UNO Card Game**</a>
+
+---
+
+<p align="center">
+  <a href="https://github.com/Andraz1999" target="_blank">GitHub</a> •
+  <a href="https://zina-game-studio.itch.io/" target="_blank">itch.io</a>
+</p>
