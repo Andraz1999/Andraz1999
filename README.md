@@ -14,7 +14,7 @@ Tools to make learning languages a little more engaging:
 
 ## 🎮 Game Development
 
-Games I've built and tinkered with:
+Games I've built with my brother:
 
 - <a href="https://github.com/Andraz1999/LudwigJam" target="_blank">**Ludwig's Game Jam 2021**</a> — A game jam project with a lot of heart
 - <a href="https://zina-game-studio.itch.io/" target="_blank">**Free browser games @ Zina Game Studio**</a> — A bunch of free-to-play games you can jump into right in your browser, no download needed!
