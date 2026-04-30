@@ -14,7 +14,7 @@ Tools to make learning languages a little more engaging:
 
 ## 🎮 Game Development
 
-Games I've built with my brother:
+Games my brother and I have built:
 
 - <a href="https://github.com/Andraz1999/LudwigJam" target="_blank">**Ludwig's Game Jam 2021**</a> — A game jam project with a lot of heart
 - <a href="https://zina-game-studio.itch.io/" target="_blank">**Free browser games @ Zina Game Studio**</a> — A bunch of free-to-play games you can jump into right in your browser, no download needed!
@@ -31,7 +31,7 @@ Experiments at the intersection of AI and everyday usefulness:
 
 ## 📚 School & Other Projects
 
-Various academic and personal projects:
+Various academic and school projects:
 
 - <a href="https://github.com/Andraz1999/UNO-Karte" target="_blank">**UNO Card Game**</a>
 
