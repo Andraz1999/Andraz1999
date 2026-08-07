@@ -31,9 +31,10 @@ Experiments at the intersection of AI and everyday usefulness:
 
 ## 📚 School & Other Projects
 
-Various academic and school projects:
+Various academic and other projects:
 
 - <a href="https://github.com/Andraz1999/UNO-Karte" target="_blank">**UNO Card Game**</a>
+- <a href="https://github.com/Andraz1999/banknotes-picker" target="_blank">**Banknotes Picker**</a>
 
 ---
 
